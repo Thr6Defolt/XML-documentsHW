@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Cars>
+  <Car>
+    <Name>Car1</Name>
+    <Price>20000</Price>
+    <Number>ABC123</Number>
+  </Car>
+  <Car>
+    <Name>Car2</Name>
+    <Price>27000</Price>
+    <Number>XYZ456</Number>
+  </Car>
+  <Car>
+    <Name>Car3</Name>
+    <Price>18000</Price>
+    <Number>123DEF</Number>
+  </Car>
+</Cars>

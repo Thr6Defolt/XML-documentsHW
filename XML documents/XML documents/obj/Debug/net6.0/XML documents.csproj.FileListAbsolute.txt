@@ -1,0 +1,14 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\bin\Debug\net6.0\XML documents.exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\bin\Debug\net6.0\XML documents.deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\bin\Debug\net6.0\XML documents.runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\bin\Debug\net6.0\XML documents.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\bin\Debug\net6.0\XML documents.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\obj\Debug\net6.0\XML documents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\obj\Debug\net6.0\XML documents.AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\obj\Debug\net6.0\XML documents.AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\obj\Debug\net6.0\XML documents.csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\obj\Debug\net6.0\XML documents.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\obj\Debug\net6.0\refint\XML documents.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\obj\Debug\net6.0\XML documents.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\obj\Debug\net6.0\XML documents.genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\XML documents\XML documents\obj\Debug\net6.0\ref\XML documents.dll
